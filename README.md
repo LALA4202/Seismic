@@ -1,9 +1,11 @@
  Seismic-Devnet-Contract-Deploy-Guide
 Guide How to Deploy Seismic Devnet Contract
 Pre-Requirements
-1. Install Rust
+1.
+2.  Install Rust
 curl https://sh.rustup.rs -sSf | sh  
 . "$HOME/.cargo/env"
+
 Verify Installation
 
 rustc --version
